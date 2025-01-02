@@ -1,0 +1,23 @@
+{
+    "payload": [
+        {
+            "time": "3:00 PM - 4:00 PM",
+            "title": "Guest Registeration"
+        },
+        {
+            "time": "4:00 PM - 5:00 PM",
+            "title": "Test Rides"
+        },
+        {
+            "time": "5:00 PM - 7:00 PM",
+            "title": "Game & Activities",
+            "description": "Fun game & activity booths all around,food & drinks on offer,live Dj,test rides,Vespa club Cambodia signup & Card collection"
+        },
+        {
+            "time": "7:00 PM - 9:00 PM",
+            "title": "Presentation",
+            "description": "Closing Presentation the event of the year.",
+            "speaker": "Dr. SOK Sithon"
+        }
+    ]
+}

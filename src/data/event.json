@@ -1,0 +1,177 @@
+{
+    "conference": [
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Flower Enterprises"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/headway-F2KRf_QfCqw-unsplash.jpgbff2c2b3-3340-421f-b8bf-06cf683bb395?alt=media&token=19e9782d-0cca-4105-ab02-d627bd515ac6",
+                "title": "Academic",
+                "description": "Specialized gatherings where scholars, researchers, and professionals",
+                "date": "2024-05-28T18:55:11.199",
+                "location": "Chamkar Mon"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "National Speakers"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/kane-reinholdtsen-LETdkk7wHQk-unsplash%20(1).jpg?alt=media&token=9c171ee3-f0fe-4905-a6b5-5b8a24833574",
+                "title": "Public Speaking",
+                "description": "Public speaking has played an important cultural role in human history",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Boeng Keng Kang"
+            }
+        }
+    ],
+    "sport": [
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Daisy Corp"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/pietro-mattia-zXqizKxnbBU-unsplash.jpg?alt=media&token=4ce06f74-7201-45c8-815c-05f6e3349c02",
+                "title": "Horse Challenging",
+                "description": "Saddle up htmlFor a thrilling horse riding experience, where elegance meets adventure.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Sen Sok"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Daisy Corp"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/joe-neric-HHunRG19kF8-unsplash.jpg?alt=media&token=1059d7c6-69b2-4fd9-9bc0-f19a19196411",
+                "title": "Motor Challenging",
+                "description": "Gear up htmlFor the ultimate adrenaline rush! Motor Challenging promises to be.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Kamboul"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Daisy Corp"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/markus-spiske-WUehAgqO5hE-unsplash.jpg?alt=media&token=c6b6dd05-e33a-48a8-b22f-c7be239e477e",
+                "title": "Bicycles resting",
+                "description": "Join us htmlFor a leisurely bicycle ride.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Chbar Ampov"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Garden Tech"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/paolo-feser-d6UCfbY3zMc-unsplash.jpg?alt=media&token=9624e26d-387d-4aa2-a802-f4065464745f",
+                "title": "Car challenging",
+                "description": "The best challenging in the world. Don’t forget to join our wonderful event in the Trophy, the win ...",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Mean Chey"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Petal Co"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/iwona-castiello-d-antonio-yhmyOKKvllI-unsplash.jpg?alt=media&token=22c38f4f-2893-4340-861c-c3102095ae09",
+                "title": "Maratons",
+                "description": "Endurance challenge, pounding footsteps, determination, cheering crowds, finish line.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Dangkao"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Petal Co"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/photopum-ranaroja-Wex3Uk1sXdM-unsplash.jpg?alt=media&token=52b9cbc6-249b-4b50-b55f-5c5598f471d7",
+                "title": "How to be happier",
+                "description": "The best challenging in the world. Don’t forget to join our wonderful event in the Trophy, the win.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Chroy Changvar"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Petal Co"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/keith-johnston-v_D1Cz99SR4-unsplash.jpg?alt=media&token=4e139d8d-cbde-4ea8-ab52-a248911bb4ed",
+                "title": "The Marathoner's Odyssey",
+                "description": "Through valleys of exhaustion and peaks of exhilaration, they embarked on a quest that.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Chroy Changvar"
+            }
+        }
+    ],
+    "festival": [
+        {
+            "company": {
+                "logo": "icon",
+                "name": "KH Underground"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/danny-howe-74kShnX5zZI-unsplash.jpg?alt=media&token=72085c0f-7c4a-4d96-947b-befce42df6a3",
+                "title": "Downtown",
+                "description": "The streets were adorned with vibrant banners, echoing the lively spirit of the upcoming festival",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Russey Keo"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "Drip99"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/colin-lloyd-eiQqGBAMgIE-unsplash.jpg?alt=media&token=436c6c04-a9fa-4dd6-a6cb-33fd11ef54ec",
+                "title": "Electro Set",
+                "description": "Laughter and music filled the air as families gathered around the bonfire.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Prampir Makara"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "KH Underground"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/andrew-ruiz-ab5jn3Ikj8M-unsplash.jpg?alt=media&token=7990d28f-f845-417b-82f7-941b55ff08a9",
+                "title": "Tomorrowland Summer",
+                "description": "Colorful costumes paraded through the town square, each telling a story of tradition.",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Pou Senchey"
+            }
+        },
+        {
+            "company": {
+                "logo": "icon",
+                "name": "The Areana"
+            },
+            "event": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-next-8e2cc.appspot.com/o/alfonso-scarpa-e12EkMYv44U-unsplash.jpg?alt=media&token=65017a35-ed96-4a69-8313-45e9f7aa396d",
+                "title": "EDM Festival",
+                "description": "As night fell, the sky lit up with a dazzling display of fireworks, marking the climax of the summer",
+                "date": "2024-05-26T12:55:11.199",
+                "location": "Toul Kork"
+            }
+        }
+    ]
+}

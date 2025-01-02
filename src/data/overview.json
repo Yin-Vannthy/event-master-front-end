@@ -1,0 +1,24 @@
+{
+    "payload": [
+        {
+            "logo": "event",
+            "title": "Event Count",
+            "count": "128"
+        },
+        {
+            "logo": "published",
+            "title": "Published Event",
+            "count": "8"
+        },
+        {
+            "logo": "attendee",
+            "title": "Total Attendees",
+            "count": "2,345"
+        },
+        {
+            "logo": "member",
+            "title": "Members",
+            "count": "12"
+        }
+    ]
+}

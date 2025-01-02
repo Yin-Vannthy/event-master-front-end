@@ -1,0 +1,61 @@
+@media (min-width: 400px) and (max-width: 600px) {
+    .hideOnPhone {
+        display: none;
+
+    }
+
+    .container {
+        display: flex;
+        /* background-color: aqua; */
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .icon {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        width: 30px;
+        height: 30px;
+        object-fit: cover;
+    }
+
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .icon {
+        position: absolute;
+        top: 80px;
+        right: 5px;
+    }
+    .container {
+        display: flex;
+        /* background-color: aqua; */
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .profile {
+        margin-bottom: 25px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+    .icon {
+        position: absolute;
+        top: 105px;
+        right: 6px;
+    }
+    .container {
+        display: flex;
+        /* background-color: aqua; */
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .profile {
+        margin-bottom: 25px;
+    }
+    
+}

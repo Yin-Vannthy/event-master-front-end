@@ -1,0 +1,1 @@
+export const Title = ({ title }) => <h2 className="text-xl font-semibold">{title}</h2>

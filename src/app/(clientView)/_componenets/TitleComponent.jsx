@@ -1,0 +1,1 @@
+export const TitleComponent = ({ title }) => <h2 className="font-bold text-4xl lg:text-[42px]">{title}</h2>

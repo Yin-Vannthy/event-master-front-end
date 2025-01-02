@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "link": "/overview",
+            "name": "Overview",
+            "icon": "overview"
+        },
+        {
+            "link": "/members",
+            "name": "Members",
+            "icon": "members"
+        },
+        {
+            "link": "/assets",
+            "name": "Assets",
+            "icon": "assets"
+        },
+        {
+            "link": "/events",
+            "name": "Events",
+            "icon": "events"
+        },
+        {
+            "link": "/user-request",
+            "name": "User Request",
+            "icon": "request"
+        }
+    ]
+}

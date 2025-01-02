@@ -1,0 +1,62 @@
+{
+    "data":[
+        {
+            "name":"Angkor",
+            "qty":"22",
+            "unit":"box",
+            "createby":"Davin vision",
+            "status":"In stock"
+        },
+          {
+            "name":"water",
+            "qty":"22",
+            "unit":"bottom",
+            "createby":"bona ko",
+            "status":"In stock"
+        },
+             {
+            "name":"coca cola",
+            "qty":"22",
+            "unit":"box",
+            "createby":"phana",
+            "status":"In stock"
+        },
+             {
+            "name":"sting",
+            "qty":"10",
+            "unit":"box",
+            "createby":"monika",
+            "status":"Out of Stock"
+             } ,
+               {
+            "name":"Angkor",
+            "qty":"22",
+            "unit":"box",
+            "createby":"khana",
+            "status":"In stock"
+        },
+          {
+            "name":"water",
+            "qty":"22",
+            "unit":"bottom",
+            "createby":"vichen",
+            "status":"In stock"
+        },
+             {
+            "name":"coca cola",
+            "qty":"22",
+            "unit":"box",
+            "createby":"koko",
+            "status":"In Stock"
+        },
+             {
+            "name":"sting",
+            "qty":"10",
+            "unit":"box",
+            "createby":"xo xo",
+            "status":"Out of Stock"
+             } 
+    ]
+
+
+}
